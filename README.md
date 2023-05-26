@@ -4,7 +4,7 @@
 
 # Food delivery platform
 
-_website design project_
+_food shop in website with user,orders,food images._
 
 <br>
 
