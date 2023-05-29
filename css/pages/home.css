@@ -1,4 +1,7 @@
+/* base */
 @import '../base/base.css';
-
+@import '../base/layout.css';
+ 
+/*vendor*/
 @import '../vendor/font-awesome.min.css';
-@import '../vendor/ubuntu.css'
+@import '../vendor/ubuntu.css';

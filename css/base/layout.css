@@ -1,0 +1,8 @@
+.side-menu {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    padding-top: 80px;
+    padding-left: 40px;
+}
